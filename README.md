@@ -1,5 +1,3 @@
-Sql_Data_analysis_project_by_sanghmitra_sisodiya_kaggle
-
 # Mumbai's Top Rated Swiggy Restaurants - Data Analysis and Visualization using Power BI  
 ## Project by Sanghmitra Sisodiya 
 
