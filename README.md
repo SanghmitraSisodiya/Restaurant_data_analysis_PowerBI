@@ -12,9 +12,7 @@ It mentions their ratings, the type of food they specialize in, their average de
 ## Feel free to go through the dataset and project.
 
 # Restaurant Data Analysis - Power BI
-Find Data Anaysis and Vizualization Project done for Swiggy Restaurant data analysis in PowerBI - Visualization of the Data Analyisis, findings, and insights. 
-
-For the Powerbi Interactive portfolio - visit my NOVYPRO Profile. 
+For the Powerbi Interactive portfolio - visit my [Data Visualization Portfolio] (https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 
 📊 Data Analysis Project - Mumbai's Swiggy Top-Rated Restaurants
 📈 
@@ -22,21 +20,16 @@ Data Source - Kaggle DataSets
 
 Note - I have used **Dense Rank Format** for Data Visualization (Top 5, Bottom 5)
 
-Data Cleaning, Validation and Preparation - #MySQL, #Excel 
-**(refer the SQL Repository)
+Data Cleaning, Validation and Preparation - #MySQL, #Excel **(refer the SQL Repository)
+[SQL Project Github] - (https://github.com/SanghmitraSisodiya/Restaurant_data_analysis_PowerBI)
 
 Data Analysis and Visualization Tool - **PowerBI  
 
-Skills Learnt - ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
-
-
+Skills Learnt - 
+ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
 
 [PowerBI Portfolio] - (https://lnkd.in/g4_PtqjM)
 
 [SQL Project Github] - (https://github.com/SanghmitraSisodiya/Restaurant_data_analysis_PowerBI)
 
 [Dataset] - (https://lnkd.in/dyMtDdN9)
-
-
-
-#exploratorydataanalysis #dataanalyst #datavisualization  #powerbi #advancedexcel #datascience #mysql #sql #database #python  #kaggle #pandas #numpy #matplotlib #seaborn #microsoftpowerbi 
