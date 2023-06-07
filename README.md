@@ -1,5 +1,6 @@
 # Mumbai's Top Rated Swiggy Restaurants - Data Analysis and Visualization using Power BI  
 ## Project by Sanghmitra Sisodiya 
+![Screenshot of Swiggy Logo](https://i0.wp.com/logotaglines.com/wp-content/uploads/2021/01/Swiggy-Logo-Tagline-Slogan.jpg?fit=1200%2C900&ssl=1)
 
 ## About Dataset
 Analysis of the top rated restaurants in the city of Mumbai according to Swiggy which is a popular online food ordering and delivery platform based in India. 
